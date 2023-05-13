@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+*{
+   box-sizing: border-box;
+   font-size: 40px;
+   line-height: 48.14px;
+   font-family: 'Inter';
+}
+div{
+   margin: 0.5rem;
+}
+
+
+p{
+   font-weight: 400;
+}
